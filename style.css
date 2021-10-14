@@ -1,0 +1,24 @@
+.bg-grey{
+    background-color: grey;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: lime;
+}
+
+.snack-4{
+    font-size: 1.3rem;
+}
+
+.snack-5 li{
+    font-size: 1.2rem;
+    padding: 10px;
+}
